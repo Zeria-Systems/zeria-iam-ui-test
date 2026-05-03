@@ -1,8 +1,7 @@
 <script setup lang="ts">
+import './assets/main.css'
 </script>
 
 <template>
-  <header>
-    <h1>Zeria IAM UI Test</h1>
-  </header>
+  <router-view />
 </template>
